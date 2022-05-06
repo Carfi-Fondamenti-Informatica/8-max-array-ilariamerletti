@@ -1,5 +1,5 @@
 #include <iostream>
-#include "lib.cpp"
+#include "lib.h"
 using namespace std;
 int main() {
     int dim1;
